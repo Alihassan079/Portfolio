@@ -68,7 +68,7 @@ export default function AutoGrid() {
               >
                 {/* <span> */}
                 <a
-                  href="https://product-selling-i4us.vercel.app/"
+                  href="https://product-selling.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
