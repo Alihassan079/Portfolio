@@ -1,0 +1,54 @@
+.project-name{
+  white-space: nowrap;
+}
+.project-title {
+  font-size: 56px;
+  font-weight: 400;
+  line-height: normal;
+}
+.startup-project-text img{
+  max-width: 100%;
+  height: auto;
+  
+}
+
+.repo-cards-div-main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1rem 1rem;
+}
+
+/* Media Query */
+@media (max-width: 1380px) {
+  .project-title {
+    font-size: 40px;
+  }
+}
+@media (max-width: 768px) {
+  .project-title {
+    font-size: 30px;
+    text-align: center;
+  }
+  .repo-cards-div-main{
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+}
+@media (max-width: 480px) {
+  .project-title {
+    font-size: 22px;
+    text-align: center;
+  }
+}
+
+.project-desc {
+  font-size: 18px;
+  text-align: center;
+  color: #333;
+}
+
+/* Media query for screens with a maximum width of 600px (typical for mobile devices) */
+@media only screen and (max-width: 600px) {
+  .project-desc {
+    font-size: 16px; /* Adjust font size for smaller screens */
+  }
+}
