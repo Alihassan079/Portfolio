@@ -11,7 +11,7 @@ const greeting = {
   username: "Ali Hassan",
   title: "Hi everyone, I'm Ali Hassan",
   subTitle: emoji("A passionate Front-End Developer 🚀 having an experience of building Web applications with HTML / CSS / Bootstrap / JavaScript / Reactjs  and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1PG-mM7qoAa0dQ0enE7vupCbajuDaOX2E/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1PG-mM7qoAa0dQ0enE7vupCbajuDaOX2E/view?usp=drivesdk"
 };
 
 // Your Social Media Link
