@@ -95,7 +95,7 @@ export default function AutoGrid() {
               >
                 {/* <span> */}
                 <a
-                  href="https://devstags.com/"
+                  href="https://wheelalignmenttraining.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
